@@ -1,0 +1,6 @@
+D:\PRN292\TrenLop\Workshop\Assignment\Assignment\Entity\bin\Debug\Entity.exe
+D:\PRN292\TrenLop\Workshop\Assignment\Assignment\Entity\bin\Debug\Entity.pdb
+D:\PRN292\TrenLop\Workshop\Assignment\Assignment\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\PRN292\TrenLop\Workshop\Assignment\Assignment\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\PRN292\TrenLop\Workshop\Assignment\Assignment\Entity\obj\Debug\Entity.exe
+D:\PRN292\TrenLop\Workshop\Assignment\Assignment\Entity\obj\Debug\Entity.pdb
